@@ -1,6 +1,6 @@
 # Udacity-Data-Analytics-nano-degree-project1
 ## Data Analysis
-### In this project one was required to choose a dataset of your choice.
+### In this project one was required to choose a dataset of his/her choice.
 #### After which you come up with your own questions and perform:
       1) Data cleaning
       2) Data preprocessing
